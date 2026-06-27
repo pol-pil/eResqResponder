@@ -1,0 +1,22 @@
+export const COLORS = {
+    primary: "#0e79fb",
+    health: "#ff4545",
+    flood: "#0e79fb",
+    fire: "#fb8c0e",
+    crime: "#353C51",
+    inp: "#e9edf2",
+    desc: "#828282",
+    active: "#2fc244",
+    error: "#F2E9E9",
+    green: "#4aa256",
+    green2: "#259835",
+    box: "#f4f4f5",
+
+    secondary: "#2DD4BF",
+    background: "#000000",
+    surface: "#1A1A1A",
+    surfaceLight: "#2A2A2A",
+    white: "#FFFFFF",
+    black: "#000000",
+    grey: "#9CA3AF",
+}
